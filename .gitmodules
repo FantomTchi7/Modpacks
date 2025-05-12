@@ -1,0 +1,4 @@
+[submodule "QoL & Performance"]
+	path = QoL & Performance
+	url = https://github.com/FantomTchi7/QoL-Performance.git
+	branch = main
